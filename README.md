@@ -12,5 +12,5 @@ cybersecurity test project
 ### Option 2 - Auto
 * Enter the following command
 ```sh
-
+cd ~ && git clone https://github.com/GrimalDev/permabook.git && cd permabook && bash ./install__permabook.sh
 ```
