@@ -15,6 +15,6 @@ cybersecurity test project
 cd ~ && git clone https://github.com/GrimalDev/permabook.git && cd permabook && bash ./install__permabook.sh
 ```
 
-### Licensing
+## Licensing
 This project is under an MIT licensing plan. In no way do I take responsibility for any malfunction of the code. I encourage anyone to enhance the project and fork the project.
 Just remember to mention the people behind.
