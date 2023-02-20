@@ -16,4 +16,5 @@ cd ~ && git clone https://github.com/GrimalDev/permabook.git && cd permabook && 
 ```
 
 ### Licensing
-This project is under an MIT licensing plan. In no way do I take responsibility for any disfonctionement of the code. I encourage to enhance the project and fork the project.
+This project is under an MIT licensing plan. In no way do I take responsibility for any malfunction of the code. I encourage anyone to enhance the project and fork the project.
+Just remember to mention the people behind.
